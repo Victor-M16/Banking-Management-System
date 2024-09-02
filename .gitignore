@@ -1,0 +1,82 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.vs
+*.vscode
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.snk
+
+# NuGet
+*.nupkg
+*.snupkg
+# NuGet configuration files
+.nuget/
+# NuGet package folders
+packages/
+# NuGet symbol package folders
+symbols/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+[Oo]utput/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.dmp
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# JetBrains Rider
+.idea/
+
+# Microsoft Azure
+.env
+
+# Local history for JetBrains Rider
+.idea/.idea/
+.idea/.idea/*.iml
+.idea/.idea/*
+
+# DotCover
+.dotCover/
+
+# Code Analysis
+*.vspscc
+*.vssscc
+
+# Package distribution
+*.vsix
+*.vsixmanifest
+
+# R# tools
+*.rsc
+*.dotsettings
